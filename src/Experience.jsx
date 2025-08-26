@@ -23,9 +23,12 @@ export default function Experience()
         <directionalLight />
         <ambientLight intensity={ 1.5 } />
 
-        <mesh rotation-y={ Math.PI * 0.25 } position={ [ 2, 0, 0 ] } scale={ 1.5 } ref={sphereRef}>
+        <mesh rotation-y={ Math.PI * 0.25 } position={ [ 2, 0, 0 ] } ref={sphereRef}>
             <sphereGeometry args={ [ 1.5, 32, 32 ] } />
             <meshBasicMaterial color="mediumpurple" wireframe />
         </mesh>
+
+
+
     </>
 }

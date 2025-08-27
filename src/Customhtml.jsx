@@ -8,7 +8,7 @@ export default function Customhtml()
         <Html fullscreen transform scale={0.4}>
             <h1>kingston koh</h1>
             
-            <p>this site is 3d, u can rotate around on web & mobile</p> 
+            <p>this site is 3d, u should be able to rotate around on web & mobile haha</p> 
             
             <br/>
 

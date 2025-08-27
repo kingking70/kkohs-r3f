@@ -20,7 +20,7 @@ export default function Experience()
     useFrame((state) =>
     {
         const elapsedTime = state.clock.getElapsedTime()
-        const radius = 4
+        const radius = 3
         const angularSpeed = 0.5
 
         sphereRef.current.position.x = Math.cos(elapsedTime * angularSpeed) * radius

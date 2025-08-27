@@ -8,16 +8,18 @@ export default function Customhtml()
         <Html fullscreen transform scale={0.4}>
             <h1>kingston koh</h1>
             
-            <h4>creator & writer</h4>
+            <p>this site is 3d, u can rotate around on web & mobile</p> 
             
+            <br/>
+
             <h2>created</h2>
             
-            <p><a href="https://anti-network.com" target="_blank">anti-network</a></p>
+            <p><a href="https://anti-network.com" target="_blank">anti-network</a>, <a href="https://cli-mate.help" target="_blank">cli-mate.help</a> and newclear.website (coming soon)</p>
             
-            <p> <a href="https://cli-mate.help" target="_blank">cli-mate.help</a></p>
+            <p>other pending ideas are in anti-network <a href="https://anti-network.com/projects" target="_blank">projects</a></p>
             
-            <p>newclear.website (coming soon) and other pending ideas are in anti-network <a href="https://anti-network.com/projects" target="_blank">projects</a></p>
-            
+            <br/>
+
             <h2>wrote</h2>
 
             <p><a href="https://kingstonkoh.com" target="_blank">writings</a></p>

@@ -8,15 +8,17 @@ export default function Customhtml()
         <Html fullscreen transform scale={0.4}>
             <h1>kingston koh</h1>
             
-            <p>this site is 3d, u should be able to rotate around on web & mobile haha</p> 
+            <i>this site is 3d, u should be able to rotate around on web & mobile haha</i> 
             
             <br/>
+            <br/> 
 
+            <p>learning r3f to build <a href="https://newclear.website">newclear.website</a></p>
             <h2>created</h2>
             
-            <p><a href="https://anti-network.com" target="_blank">anti-network</a>, <a href="https://cli-mate.help" target="_blank">cli-mate.help</a> and building <a href="https://newclear.website">newclear.website</a> first</p>
+            <p><a href="https://anti-network.com" target="_blank">anti-network</a> and <a href="https://cli-mate.help" target="_blank">cli-mate.help</a></p>
             
-            <p>other pending ideas are in anti-network's <a href="https://anti-network.com/ideas" target="_blank">ideas</a></p>
+            <p>other pending <a href="https://anti-network.com/ideas" target="_blank">ideas</a> are in anti-network</p>
             
             <br/>
 

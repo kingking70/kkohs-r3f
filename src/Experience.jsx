@@ -35,10 +35,7 @@ export default function Experience()
         <directionalLight />
         <ambientLight intensity={ 1.5 } />
 
-        <mesh rotation-y={ Math.PI * 0.25 } position={ [ 2, 0, 0 ] } ref={sphereRef} onClick={(e) => {
-            e.stopPropagation();
-            window.open("https://kingstonkoh.com/tenets", "_blank");
-        }}>
+        <mesh rotation-y={ Math.PI * 0.25 } position={ [ 2, 0, 0 ] } ref={sphereRef}>
             <sphereGeometry args={ [ 1.5, 64, 64 ] } />
             <meshStandardMaterial
                 map={colorMap}

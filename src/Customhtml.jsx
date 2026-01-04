@@ -16,7 +16,7 @@ export default function Customhtml()
             <br/>
             
             <h2>creating</h2>
-            <p> <a href="https://anti-network.com" target="_blank">anti-network</a>, <a href="https://cli-mate.help" target="_blank">cli-mate.help</a>, <a href="https://newclear.website">nuclear electricity</a>, <a href="https://balance-medic.com" target="_blank">balance medic</a> and move-well tracker mobile app</p>
+            <p> <a href="https://anti-network.com" target="_blank">anti-network</a>, <a href="https://cli-mate.help" target="_blank">cli-mate.help</a>, <a href="https://newclear.website">nuclear electricity</a>, <a href="https://balance-medic.com" target="_blank">balance medic</a> & some magic that i'm working on since 4th jan 2026</p>
             
             <br/>
             <br/>

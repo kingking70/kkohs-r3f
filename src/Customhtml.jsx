@@ -9,13 +9,13 @@ export default function Customhtml()
 
     return <>
         <Html fullscreen transform scale={0.43}>
-            <h2>i'm kingston and i'm a</h2>
+            <h2>i'm kingston and i'm a/an</h2>
             
             <br/>
         
             <Typewriter
             options={{
-                strings: ['human', '<s>builder</s>', '<s>writer</s>', '<s>creator</s>', '<s>coder</s>', '<s>tinkerer</s>', '<s>art collector</s>', '<s>self-proclaimed artist</s>'],
+                strings: ['human being', '<s>builder</s>', '<s>writer</s>', '<s>creator</s>', '<s>coder</s>', '<s>tinkerer</s>', '<s>art collector</s>', '<s>artist</s>'],
                 autoStart: true,
                 loop: true,
             }}
@@ -26,7 +26,7 @@ export default function Customhtml()
 
             <h2>building</h2>
             
-            <p> <a href="https://cli-mate.help" target="_blank">cli-mate.help</a>, <a href="https://newclear.website">nuclear electricity</a>, <a href="https://balance-medic.com" target="_blank">balance medic</a> & some magic that i'm thinking of recently</p>
+            <p> <a href="https://cli-mate.help" target="_blank">cli-mate.help</a>, <a href="https://newclear.website">nuclear electricity</a>, <a href="https://balance-medic.com" target="_blank">balance-medic</a> & drawing</p>
             
             <br/>
             <br/>
@@ -36,8 +36,7 @@ export default function Customhtml()
             
             <br/>
             <br/>
-            <h3>contact</h3>
-            <p><a href="https://www.instagram.com/kingskohdk/" target="_blank">instagram</a> and <a href="mailto:kingstonkohdk@gmail.com">email</a></p>            
+            <h3><a href="mailto:kingstonkohdk@gmail.com">contact</a></h3>     
             <br/>
             <br/>
             <br/>

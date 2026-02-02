@@ -26,7 +26,7 @@ export default function Customhtml()
 
             <h2>building</h2>
             
-            <p> <a href="https://cli-mate.help" target="_blank">cli-mate.help</a>, <a href="https://newclear.website">nuclear electricity</a>, <a href="https://balance-medic.com" target="_blank">balance-medic</a> & drawing</p>
+            <p> <a href="https://cli-mate.help" target="_blank">cli-mate.help</a></p>
             
             <br/>
             <br/>

@@ -32,7 +32,7 @@ export default function Customhtml()
             <br/>
 
             <h2>writing</h2>
-            <p> <a href="https://kingstonkoh.com" target="_blank">personal</a>, <a href="https://thelongbuild.substack.com" target="_blank">the long build</a>, and <a href="https://groovydose.substack.com" target="_blank">groovy dose</a> </p>      
+            <p> <a href="https://kingstonkoh.com" target="_blank">personal</a></p>      
             
             <br/>
             <br/>

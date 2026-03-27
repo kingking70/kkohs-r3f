@@ -24,7 +24,7 @@ export default function Customhtml()
             <br/>
             <br/>
 
-            <h2>trying @ my <a href="https://kingstonkoh.com" target="_blank">digital journal</a></h2>
+            <h2>experimenting @ my <a href="https://kingstonkoh.com" target="_blank">digital journal</a></h2>
             <br/>        
 
             

@@ -1,6 +1,12 @@
 import { useFrame, useLoader } from "@react-three/fiber";
 import { useMemo, useRef } from "react";
 import * as THREE from "three";
+import insta1 from "./assets/insta1.png";
+import insta2 from "./assets/insta2.jpeg";
+import insta3 from "./assets/insta3.jpeg";
+import insta4 from "./assets/insta4.jpeg";
+import insta5 from "./assets/insta5.jpeg";
+import insta6 from "./assets/insta6.jpeg";
 
 export default function Pictures(props)
 {
@@ -9,12 +15,12 @@ export default function Pictures(props)
 
     // Replace these with your own image URLs for each face.
     const imageUrls = useMemo(() => ([
-        "./src/assets/insta1.png",
-        "./src/assets/insta2.jpeg",
-        "./src/assets/insta3.jpeg",
-        "./src/assets/insta4.jpeg",
-        "./src/assets/insta5.jpeg",
-        "./src/assets/insta6.jpeg",
+        insta1,
+        insta2,
+        insta3,
+        insta4,
+        insta5,
+        insta6,
     ]), []);
 
     const textures = useLoader(THREE.TextureLoader, imageUrls);

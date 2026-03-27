@@ -4,6 +4,7 @@ import { useRef } from "react"
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
 import { Venus } from "./Venus"
 
+
 extend({ OrbitControls: OrbitControls })
 
 export default function Experience()
@@ -49,6 +50,8 @@ export default function Experience()
 
         
         <Venus rotation-y={ Math.PI * 0.25 } position={ [ 1, 0, 1 ] } scale={2} ref={venusRef}/>
+        
+        
 
 
 

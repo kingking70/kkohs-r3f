@@ -1,6 +1,6 @@
 import { Html } from "@react-three/drei";
 import Typewriter from "typewriter-effect";
-
+import Pictures from "./Pictures"
 // <a href="https://anti-network.com" target="_blank">anti-network</a>
 
 export default function Customhtml()
@@ -8,7 +8,7 @@ export default function Customhtml()
 
 
     return <>
-        <Html fullscreen transform scale={0.43}>
+        <Html fullscreen transform scale={0.33}>
             <h2>i'm kingston and i'm a/an</h2>
             
             <br/>
@@ -24,21 +24,11 @@ export default function Customhtml()
             <br/>
             <br/>
 
-            <h2>building</h2>
-            
-            <p> <a href="https://cli-mate.help" target="_blank">cli-mate.help</a></p>
-            
-            <br/>
-            <br/>
+            <h2>trying @ my <a href="https://kingstonkoh.com" target="_blank">digital journal</a></h2>
+            <br/>        
 
-            <h2>writing</h2>
-            <p> <a href="https://kingstonkoh.com" target="_blank">personal</a></p>      
             
-            <br/>
-            <br/>
             <h3><a href="mailto:kingstonkohdk@gmail.com">contact</a></h3>     
-            <br/>
-            <br/>
             <br/>
 
             <i>this site is 3d</i> 
@@ -46,6 +36,7 @@ export default function Customhtml()
             <i>click or pinch the (bottom) corners on your screen to rotate & zoom around</i> 
         </Html>
         
+        <Pictures position={ [ 0, -3.8, -1.4 ] } scale={0.8}/>
 
 
     </>

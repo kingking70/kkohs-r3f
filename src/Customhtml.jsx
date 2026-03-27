@@ -8,7 +8,7 @@ export default function Customhtml()
 
 
     return <>
-        <Html fullscreen transform scale={0.33}>
+        <Html fullscreen transform scale={0.38}>
             <h2>i'm kingston and i'm a/an</h2>
             
             <br/>
@@ -36,7 +36,7 @@ export default function Customhtml()
             <i>click or pinch the (bottom) corners on your screen to rotate & zoom around</i> 
         </Html>
         
-        <Pictures position={ [ 0, -3.8, -1.4 ] } scale={0.8}/>
+        <Pictures position={ [ 0, -3.4, -1.4 ] }/>
 
 
     </>
